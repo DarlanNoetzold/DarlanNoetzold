@@ -37,15 +37,15 @@ continuously learning, wanting to help the community
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px" /> How to reach me: ...
 <p align="center">
   <a href="https://www.linkedin.com/in/darlan-noetzold-9b5bb2180/">
-    <img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/linkedin.svg" height="35px" style="margin: 5px;" />
+    <img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/linkedin.svg" height="35px" style="margin: 10px;" />
   <a href="mailto:darlan.noetzold@gmail.com">
-    <img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/gmail.svg" height="30px" style="margin: 5px;" />
+    <img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/gmail.svg" height="30px" style="margin: 10px;" />
   </a>
    <a href="https://www.facebook.com/darlan.noetzold.9/">
-    <img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/facebook.svg" height="30px" style="margin: 5px;" />
+    <img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/facebook.svg" height="30px" style="margin: 10px;" />
   </a>
    <a href="https://github.com/DarlanNoetzold">
-    <img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/github.svg" height="30px" style="margin: 5px;" />
+    <img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/github.svg" height="30px" style="margin: 10px;" />
   </a>
 </p>
 
