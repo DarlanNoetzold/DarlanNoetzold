@@ -48,21 +48,20 @@ continuously learning, wanting to help the community
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pickaxe.png" width="40px" /> Tools and Frameworks
 <p align="center">
-    <img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/java.svg" height="50px" style="vertical-align:top margin:6px" /> JAVA
-     <img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/api.svg" height="35px" style="vertical-align:top margin:6px 4px" />
-      <img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/brain.svg" height="35px" style="vertical-align:top margin:6px 4px" />
-       <img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/css.svg" height="35px" style="vertical-align:top margin:6px 4px" />
-        <img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/data.svg" height="35px" style="vertical-align:top margin:6px 4px" />
-         <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/java.svg" height="35px" style="vertical-align:top margin:6px 4px" />
-          <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/js.svg" height="35px" style="vertical-align:top margin:6px 4px" />
-           <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/mobile.svg" height="35px" style="vertical-align:top margin:6px 4px" />
-            <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/nodejs.svg" height="35px" style="vertical-align:top margin:6px 4px" />
-             <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/python.svg" height="35px" style="vertical-align:top margin:6px 4px" />
-             <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/react_native.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
-             <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/sass.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
-             <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/unity.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
-             <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/visualstudio_code.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
-             <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/xcode.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
+    <img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/java.svg" height="50px" style="vertical-align:top margin:6px" />
+     <img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/api.svg" height="50px" style="vertical-align:top margin:6px 4px" />
+      <img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/brain.svg" height="50px" style="vertical-align:top margin:6px 4px" />
+       <img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/css.svg" height="50px" style="vertical-align:top margin:6px 4px" />
+        <img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/data.svg" height="50px" style="vertical-align:top margin:6px 4px" />
+         <img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/docker.svg" height="50px" style="vertical-align:top margin:6px 4px" />
+          <img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/documento-c.svg" height="50px" style="vertical-align:top margin:6px 4px" />
+           <img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/github.svg" height="50px" style="vertical-align:top margin:6px 4px" />
+            <img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/html-5.svg" height="50px" style="vertical-align:top margin:6px 4px" />
+             <img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/javascript.svg" height="50px" style="vertical-align:top margin:6px 4px" />
+             <img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/linux.svg" height="50px" style="vertical-align:top margin:6px 4px"/>
+             <img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/python.svg" height="50px" style="vertical-align:top margin:6px 4px"/>
+             <img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/raspberry-pi.svg" height="50px" style="vertical-align:top margin:6px 4px"/>
+             <img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/sql.svg" height="50px" style="vertical-align:top margin:6px 4px"/>
              
 </p>
 
