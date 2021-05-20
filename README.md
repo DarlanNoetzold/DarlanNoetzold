@@ -49,7 +49,7 @@ continuously learning, wanting to help the community
   </a>
 </p>
 
-### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pickaxe.png" width="40px" /> Tools and Frameworks
+### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pickaxe.png" width="40px" /> Tools and Frameworks:
 <p align="center">
     <img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/java.svg" height="50px" style="vertical-align:top margin:6px" />
      <img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/api.svg" height="50px" style="vertical-align:top margin:6px 4px" />
@@ -71,7 +71,7 @@ continuously learning, wanting to help the community
 </p>
 
 
-<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/stats.png" width="35px" /> Some stats
+### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/stats.png" width="35px" /> Some stats:
 
 
 <!--START_SECTION:waka-->
@@ -97,8 +97,8 @@ Javascript            █░░░░░░░░░░░░░░░░░░�
 
 </p>
 
-### <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="70px" /> My achievements
-
+### <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="70px" /> My achievements:
+<br>
 <div align=center>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DarlanNoetzold&repo=Mudi&theme=radical)](https://github.com/DarlanNoetzold/Mudi)
