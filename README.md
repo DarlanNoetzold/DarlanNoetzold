@@ -4,7 +4,7 @@
   <samp>
     My name is <em>Darlan</em>. I am a Web Developer and Data Engineer... 
   <br/> Java enthusiast... Python lover. And a little bit of C ++, Javascript and its tenconologies. 
-    <br/> (<em>ex</em>) I study in one period and work in two..
+    <br/> I study in one period and work in two..
       <br/>
 I try to create new projects for fun and update my knowledge,
           <br/>
@@ -94,5 +94,13 @@ Javascript            █░░░░░░░░░░░░░░░░░░�
 
 </p>
 
+## My achievements
+
+<div align=center>
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DarlanNoetzold&repo=Mudi&theme=radical)](https://github.com/DarlanNoetzold/Mudi)
+
+</div>
+
 ---
-⭐️ From [alexnaiman](https://github.com/alexnaiman)
+
