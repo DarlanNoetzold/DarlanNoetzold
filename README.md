@@ -94,11 +94,16 @@ Javascript            █░░░░░░░░░░░░░░░░░░�
 
 </p>
 
-## My achievements
+### My achievements
 
 <div align=center>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DarlanNoetzold&repo=Mudi&theme=radical)](https://github.com/DarlanNoetzold/Mudi)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DarlanNoetzold&repo=titanic-survivor&theme=radical)](https://github.com/DarlanNoetzold/titanic-survivor)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DarlanNoetzold&repo=Simulador-ABISM&theme=radical)](https://github.com/robertowiest/Simulador-ABISM)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DarlanNoetzold&repo=Lotka-Volterra&theme=radical)](https://github.com/DarlanNoetzold/Lotka-Volterra)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DarlanNoetzold&repo=RPG-DungeoPy&theme=radical)](https://github.com/DarlanNoetzold/RPG-DungeoPy)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DarlanNoetzold&repo=IrisPrediction&theme=radical)](https://github.com/DarlanNoetzold/IrisPrediction)
 
 </div>
 
