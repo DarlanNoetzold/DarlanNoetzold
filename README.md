@@ -69,6 +69,8 @@ continuously learning, wanting to help the community
              <img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/json-file.svg" height="50px" style="vertical-align:top margin:6px 4px"/>
              
 </p>
+
+
 <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/stats.png" width="35px" /> Some stats
 
 
@@ -95,7 +97,7 @@ Javascript            █░░░░░░░░░░░░░░░░░░�
 
 </p>
 
-### My achievements &#x1f4c8;
+### <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="70px" /> My achievements
 
 <div align=center>
 
