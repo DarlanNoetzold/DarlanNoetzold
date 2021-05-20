@@ -42,7 +42,7 @@ continuously learning, wanting to help the community
     <img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/gmail.svg" height="30px" style="margin: 10px;" />
   </a>
    <a href="https://www.facebook.com/darlan.noetzold.9/">
-    <img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/facebook.svg" height="30px" style="margin: 50px;" />
+    <img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/facebook.svg" height="30px" style="left margin: 50px;" />
   </a>
    <a href="https://github.com/DarlanNoetzold">
     <img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/github.svg" height="30px" style="margin: 10px;" />
