@@ -65,9 +65,10 @@ continuously learning, wanting to help the community
              <img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/python.svg" height="50px" style="vertical-align:top margin:6px 4px"/>
              <img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/raspberry-pi.svg" height="50px" style="vertical-align:top margin:6px 4px"/>
              <img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/sql.svg" height="50px" style="vertical-align:top margin:6px 4px"/>
+             <img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/bootstrapping.svg" height="50px" style="vertical-align:top margin:6px 4px"/>
+             <img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/json-file.svg" height="50px" style="vertical-align:top margin:6px 4px"/>
              
 </p>
-
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/stats.png" width="35px" /> Some stats
 
 
