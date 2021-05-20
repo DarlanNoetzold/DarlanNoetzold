@@ -95,7 +95,7 @@ Javascript            █░░░░░░░░░░░░░░░░░░�
 
 </p>
 
-### My achievements
+### My achievements &#x1f4c8;
 
 <div align=center>
 
