@@ -76,6 +76,8 @@ continuously learning, wanting to help the community
 
 <!--START_SECTION:waka-->
 ```text
+My time in technologies:
+
 Java                  █████████████░░░░░░░░░░░░   52 % 
 Python                ████████░░░░░░░░░░░░░░░░░   30 % 
 Other                 ███░░░░░░░░░░░░░░░░░░░░░░   10 % 
