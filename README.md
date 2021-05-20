@@ -49,10 +49,10 @@ continuously learning, wanting to help the community
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pickaxe.png" width="40px" /> Tools and Frameworks
 <p align="center">
     <img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/java.svg" height="35px" style="vertical-align:top margin:6px 4px" />
-     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/csharp.svg" height="35px" style="vertical-align:top margin:6px 4px" />
-      <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/css3.svg" height="35px" style="vertical-align:top margin:6px 4px" />
-       <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/gamedev.svg" height="35px" style="vertical-align:top margin:6px 4px" />
-        <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/html.svg" height="35px" style="vertical-align:top margin:6px 4px" />
+     <img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/api.svg" height="35px" style="vertical-align:top margin:6px 4px" />
+      <img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/brain.svg" height="35px" style="vertical-align:top margin:6px 4px" />
+       <img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/css.svg" height="35px" style="vertical-align:top margin:6px 4px" />
+        <img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/data.svg" height="35px" style="vertical-align:top margin:6px 4px" />
          <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/java.svg" height="35px" style="vertical-align:top margin:6px 4px" />
           <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/js.svg" height="35px" style="vertical-align:top margin:6px 4px" />
            <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/mobile.svg" height="35px" style="vertical-align:top margin:6px 4px" />
