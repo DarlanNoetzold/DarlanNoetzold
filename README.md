@@ -41,10 +41,6 @@ continuously learning, wanting to help the community
   <a href="mailto:alex.naiman.4@gmail.com">
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/gmail.png" height="30px" style="margin: 5px;" />
   </a>
-    <br>
-    <a href="https://noetzold.tech/">
-      <img src="https://github.com/benyou1969/benyou1969/blob/master/globe.gif?raw=true" />
-    </a>
 </p>
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pickaxe.png" width="40px" /> Tools and Frameworks
@@ -84,7 +80,9 @@ Javascript            █░░░░░░░░░░░░░░░░░░�
 <p align="right">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=DarlanNoetzold&theme=tokyonight&show_icons=true" />
 
-<img  float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarlanNoetzold&theme=tokyonight&show_icons=true" />
+<a href="https://noetzold.tech/">
+  <img src="https://github.com/benyou1969/benyou1969/blob/master/globe.gif?raw=true" />
+</a>
 
 </p>
 
