@@ -41,7 +41,7 @@ continuously learning, wanting to help the community
   <a href="mailto:darlan.noetzold@gmail.com">
     <img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/gmail.svg" height="30px" style="margin: 150px;" />
   </a>
-   <a href="https://www.facebook.com/darlan.noetzold.9/">
+   <a href="https://www.facebook.com/darlan.noetzold.9/" style="margin: 150px;">
     <img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/facebook.svg" height="30px" style="margin: 150px;" />
   </a>
    <a href="https://github.com/DarlanNoetzold">
