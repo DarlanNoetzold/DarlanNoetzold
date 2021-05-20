@@ -44,6 +44,9 @@ continuously learning, wanting to help the community
    <a href="https://www.facebook.com/darlan.noetzold.9/">
     <img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/facebook.svg" height="30px" style="margin: 5px;" />
   </a>
+   <a href="https://github.com/DarlanNoetzold">
+    <img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/github.svg" height="30px" style="margin: 5px;" />
+  </a>
 </p>
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pickaxe.png" width="40px" /> Tools and Frameworks
