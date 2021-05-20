@@ -48,7 +48,7 @@ continuously learning, wanting to help the community
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pickaxe.png" width="40px" /> Tools and Frameworks
 <p align="center">
-    <img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/java.svg" height="35px" style="vertical-align:top margin:6px" />
+    <img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/java.svg" height="35px" style="vertical-align:top margin:10px" />
      <img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/api.svg" height="35px" style="vertical-align:top margin:6px 4px" />
       <img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/brain.svg" height="35px" style="vertical-align:top margin:6px 4px" />
        <img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/css.svg" height="35px" style="vertical-align:top margin:6px 4px" />
