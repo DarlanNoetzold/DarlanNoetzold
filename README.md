@@ -42,7 +42,9 @@ continuously learning, wanting to help the community
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/gmail.png" height="30px" style="margin: 5px;" />
   </a>
     <br>
-    
+    <a href="https://noetzold.tech/">
+      <div style='position:relative; padding-bottom:calc(76.67% + 44px)'><iframe src='https://gfycat.com/ifr/AggravatingSoftCaudata' frameborder='0' scrolling='no' width='100%'        height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p> <a href="https://gfycat.com/aggravatingsoftcaudata">via Gfycat</a></p>
+    </a>
 </p>
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pickaxe.png" width="40px" /> Tools and Frameworks
