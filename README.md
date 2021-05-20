@@ -43,7 +43,7 @@ continuously learning, wanting to help the community
   </a>
     <br>
     <a href="https://noetzold.tech/">
-      <div style='position:relative; padding-bottom:calc(76.67% + 44px)'><iframe src='https://gfycat.com/ifr/AggravatingSoftCaudata' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p> <a href="https://gfycat.com/aggravatingsoftcaudata">via Gfycat</a></p>
+     <iframe src='https://gfycat.com/ifr/AggravatingSoftCaudata' frameborder='0' scrolling='no' allowfullscreen width='640' height='535'></iframe><p> <a href="https://gfycat.com/aggravatingsoftcaudata">via Gfycat</a></p>
     </a>
 </p>
 
