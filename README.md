@@ -71,6 +71,7 @@ continuously learning, wanting to help the community
              <img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/kisspng-spring-framework-computer-icons-spring-web-flow-ja-advancement-5b4903273c5678.3653345715315115912472.png" height="50px" style="vertical-align:top margin:6px 4px"/>
              <img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/scikit-learn-seeklogo.com.svg" height="50px" style="vertical-align:top margin:6px 4px"/>
              <img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/mysql.svg" height="50px" style="vertical-align:top margin:6px 4px"/>
+             <img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/postgresql.svg" height="50px" style="vertical-align:top margin:6px 4px"/>
 
              
 </p>
