@@ -21,7 +21,7 @@ continuously learning, wanting to help the community
 - Spring Framework Aplications
 - Data analysis and model creation with Python using Sklearn, PyTorch, Pandas etc
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" height="50px" /> I’m currently learning ...
-- Trading platform of my work
+- Oracle ATG
 - Scrum and Agile concepts
 - Spring Details
 - Practice with Databases
