@@ -20,6 +20,8 @@ continuously learning, wanting to help the community
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="70px" /> I’m currently working on ...
 - Spring Framework Aplications
 - Data analysis and model creation with Python using Sklearn, PyTorch, Pandas etc
+- Oracle ATG
+- E-commerce
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" height="50px" /> I’m currently learning ...
 - Oracle ATG
 - Scrum and Agile concepts
