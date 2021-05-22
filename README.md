@@ -124,3 +124,5 @@ Javascript            █░░░░░░░░░░░░░░░░░░�
 ![VisitorCount](https://profile-counter.glitch.me/DarlanNoetzold/count.svg)
 
 ⭐️ From [DarlanNoetzold](https://github.com/DarlanNoetzold)
+
+---
