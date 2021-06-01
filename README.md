@@ -119,7 +119,7 @@ Javascript            █░░░░░░░░░░░░░░░░░░�
 </div>
 
 ---
-
+<br>
 #### Thanks for visiting :heart:
 ![VisitorCount](https://profile-counter.glitch.me/DarlanNoetzold/count.svg)
 
