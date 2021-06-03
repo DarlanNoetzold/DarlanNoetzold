@@ -118,10 +118,9 @@ Javascript            █░░░░░░░░░░░░░░░░░░�
 
 </div>
 
-  <br>
-<center>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarlanNoetzold&layout=compact&theme=radical" alt="My Github Stats"><br><br>
-</center>
+<br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarlanNoetzold&layout=compact&theme=radical" alt="My Github Stats"><br><br>
+
 
 ---
 <br>
