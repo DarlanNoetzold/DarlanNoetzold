@@ -119,7 +119,7 @@ Javascript            █░░░░░░░░░░░░░░░░░░�
 </div>
 
 <br>
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarlanNoetzold&layout=compact&theme=radical" alt="My Github Stats"><br><br>
 
 
