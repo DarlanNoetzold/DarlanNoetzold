@@ -74,6 +74,9 @@ continuously learning, wanting to help the community
              <img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/scikit-learn-seeklogo.com.svg" height="50px" style="vertical-align:top margin:6px 4px"/>
              <img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/mysql.svg" height="50px" style="vertical-align:top margin:6px 4px"/>
              <img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/postgresql.svg" height="50px" style="vertical-align:top margin:6px 4px"/>
+             <img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/nodejs.svg" height="50px" style="vertical-align:top margin:6px 4px"/>
+  <img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/mongodb-ar21.svg" height="50px" style="vertical-align:top margin:6px 4px"/>
+  <img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/icons8-react-native.svg" height="50px" style="vertical-align:top margin:6px 4px"/>
 
              
 </p>
