@@ -28,7 +28,7 @@ continuously learning, wanting to help the community...
 - Scrum and Agile concepts
 - Spring Details
 - Practice with Databases
-- Architecture and Project Design
+- Node.js, React and MongoDB in web applications
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pug_dance.gif" width="60px" /> I’m looking to collaborate on ...
 - Any open source project
 
