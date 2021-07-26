@@ -116,7 +116,7 @@ Javascript            █░░░░░░░░░░░░░░░░░░�
 <div align=center>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DarlanNoetzold&repo=reps&theme=radical)](https://github.com/DarlanNoetzold/reps)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DarlanNoetzold&repo=titanic-survivor&theme=radical)](https://github.com/DarlanNoetzold/titanic-survivor)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DarlanNoetzold&repo=Notas&theme=radical)](https://github.com/DarlanNoetzold/Notas)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DarlanNoetzold&repo=Lotka-Volterra&theme=radical)](https://github.com/DarlanNoetzold/Lotka-Volterra)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DarlanNoetzold&repo=IrisPrediction&theme=radical)](https://github.com/DarlanNoetzold/IrisPrediction)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DarlanNoetzold&repo=URI_Cpp&theme=radical)](https://github.com/DarlanNoetzold/URI_Cpp)
