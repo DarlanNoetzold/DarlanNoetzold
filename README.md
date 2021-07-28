@@ -89,11 +89,11 @@ continuously learning, wanting to help the community...
 ```text
 My time in technologies:
 
-Java                  █████████████░░░░░░░░░░░░   52 % 
+Java                  █████████████░░░░░░░░░░░░   48 % 
 Python                ████████░░░░░░░░░░░░░░░░░   30 % 
 Other                 ███░░░░░░░░░░░░░░░░░░░░░░   10 % 
 C++                   ██░░░░░░░░░░░░░░░░░░░░░░░   06 % 
-Javascript            █░░░░░░░░░░░░░░░░░░░░░░░░   02 %
+Javascript            █░░░░░░░░░░░░░░░░░░░░░░░░   06 %
 ```
 <!--END_SECTION:waka-->
 
