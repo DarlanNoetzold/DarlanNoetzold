@@ -19,16 +19,16 @@ continuously learning, wanting to help the community...
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="70px" /> I’m currently working on ...
 - Java EE and development of ecommerce solutions and fixes
+- Java 1.8 Native
 - Data analysis and model creation with Python using Sklearn, PyTorch, Pandas etc
 - Oracle ATG and his technologies
-- Spring Framework Aplications
 - API development with Node.js and integration with MongoDB
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" height="50px" /> I’m currently learning ...
 - Oracle ATG
 - Full Stack development with React, Node.js and MongoDB
-- Scrum and Agile concepts
 - Spring Details
 - Practice with Databases
+- Java details
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pug_dance.gif" width="60px" /> I’m looking to collaborate on ...
 - Any open source project
 
