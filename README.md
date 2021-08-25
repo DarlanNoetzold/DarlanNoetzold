@@ -139,7 +139,3 @@ Javascript            █░░░░░░░░░░░░░░░░░░�
 
 
 ⭐️ From [DarlanNoetzold](https://github.com/DarlanNoetzold)
-
----
-
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
