@@ -40,17 +40,10 @@ continuously learning, wanting to help the community...
 - <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/chat.gif" height="35px" /> anything, happy to help 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px" /> How to reach me: ...
 <p align="center">
-  <a href="https://www.linkedin.com/in/darlan-noetzold-9b5bb2180/">
-    <img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/linkedin.svg" height="35px" style="margin: 15px;" />
-  <a href="mailto:darlan.noetzold@gmail.com">
-    <img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/gmail.svg" height="30px" style="margin: 15px;" />
-  </a>
-   <a href="https://www.facebook.com/darlan.noetzold.9/">
-    <img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/facebook.svg" height="30px" style="margin: 15px;" />
-  </a>
-   <a href="https://github.com/DarlanNoetzold">
-    <img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/github.svg" height="30px" style="margin: 15px;" />
-  </a>
+<a href="https://www.linkedin.com/in/darlan-noetzold-9b5bb2180/"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-linkedin-circled-48.png" alt="LinkedIn"></a> &nbsp; &nbsp;
+<a href="https://www.instagram.com/darlannoetzoldd/"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-instagram-48.png" alt="Instagram"></a> &nbsp; &nbsp;
+<a href="https://www.facebook.com/darlan.noetzold.9/"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-facebook-48.png" alt="Facebook"></a> &nbsp; &nbsp;
+<a href="mailto:darlan.noetzold@gmail.com"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-gmail-48.png" alt="Gmail"></a> &nbsp; &nbsp;
 </p>
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pickaxe.png" width="40px" /> Tools and Frameworks:
