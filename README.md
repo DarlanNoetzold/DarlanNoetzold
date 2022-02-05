@@ -48,9 +48,9 @@ continuously learning, wanting to help the community...
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pickaxe.png" width="40px" /> Tools and Frameworks:
 <p align="center">
-    <img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/java.svg" height="50px" style="vertical-align:top margin:6px" />
-     <img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/api.svg" height="50px" style="vertical-align:top margin:6px 4px" />
-      <img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/brain.svg" height="50px" style="vertical-align:top margin:6px 4px" />
+    <a href="https://noetzold.tech/category/java/"><img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/java.svg" height="50px" style="vertical-align:top margin:6px" /> </a>
+     <a href="https://noetzold.tech/category/back-end/node-js/"><img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/api.svg" height="50px" style="vertical-align:top margin:6px 4px" /></a>
+      <a href="https://noetzold.tech/category/machine-learning/"><img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/brain.svg" height="50px" style="vertical-align:top margin:6px 4px" /></a>
        <img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/css.svg" height="50px" style="vertical-align:top margin:6px 4px" />
         <img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/data.svg" height="50px" style="vertical-align:top margin:6px 4px" />
          <img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/docker.svg" height="50px" style="vertical-align:top margin:6px 4px" />
