@@ -71,6 +71,10 @@ continuously learning, wanting to help the community...
              <a href="https://noetzold.tech/category/back-end/node-js/"><img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/nodejs.svg" height="50px" style="vertical-align:top margin:6px 4px"/></a>
   <a href="https://noetzold.tech/category/banco-de-dados"><img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/mongodb-ar21.svg" height="50px" style="vertical-align:top margin:6px 4px"/></a>
   <a href="https://noetzold.tech/category/front-end/react-js/"><img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/icons8-react-native.svg" height="50px" style="vertical-align:top margin:6px 4px"/></a>
+  <a href="https://noetzold.tech/category/e-commerce/"><img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/comercio-eletronico%20(1).png" height="50px" style="vertical-align:top margin:6px 4px"/></a>
+  <a href="https://noetzold.tech/category/blockchainn/"><img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/blockchain.png" height="50px" style="vertical-align:top margin:6px 4px"/></a>
+  <a href="https://noetzold.tech/"><img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/rede-global.png" height="50px" style="vertical-align:top margin:6px 4px"/></a>
+  <a href="https://noetzold.tech/category/seguranca/"><img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/security.png" height="50px" style="vertical-align:top margin:6px 4px"/></a>
 
              
 </p>
