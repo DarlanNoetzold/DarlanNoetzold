@@ -49,29 +49,28 @@ continuously learning, wanting to help the community...
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pickaxe.png" width="40px" /> Tools and Frameworks:
 <p align="center">
     <a href="https://noetzold.tech/category/java/"><img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/java.svg" height="50px" style="vertical-align:top margin:6px" /> </a>
-     <a href="https://noetzold.tech/category/back-end/node-js/"><img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/api.svg" height="50px" style="vertical-align:top margin:6px 4px" /></a>
+     <a href="https://noetzold.tech/category/back-end/api/"><img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/api.svg" height="50px" style="vertical-align:top margin:6px 4px" /></a>
       <a href="https://noetzold.tech/category/machine-learning/"><img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/brain.svg" height="50px" style="vertical-align:top margin:6px 4px" /></a>
        <a href="https://noetzold.tech/category/front-end/css/"><img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/css.svg" height="50px" style="vertical-align:top margin:6px 4px" /></a>
         <a href="https://noetzold.tech/category/data-science/"><img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/data.svg" height="50px" style="vertical-align:top margin:6px 4px" /></a>
          <a href="https://noetzold.tech/category/devops/"><img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/docker.svg" height="50px" style="vertical-align:top margin:6px 4px" /></a>
           <a href="https://noetzold.tech/category/c/"><img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/documento-c.svg" height="50px" style="vertical-align:top margin:6px 4px" /></a>
-           <a href="https://noetzold.tech/category/machine-learning/"><img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/github.svg" height="50px" style="vertical-align:top margin:6px 4px" /></a>
-            <a href="https://noetzold.tech/category/machine-learning/"><img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/html-5.svg" height="50px" style="vertical-align:top margin:6px 4px" /></a>
-             <a href="https://noetzold.tech/category/machine-learning/"><img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/javascript.svg" height="50px" style="vertical-align:top margin:6px 4px" /></a>
-             <a href="https://noetzold.tech/category/machine-learning/"><img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/linux.svg" height="50px" style="vertical-align:top margin:6px 4px"/></a>
-             <a href="https://noetzold.tech/category/machine-learning/"><img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/python.svg" height="50px" style="vertical-align:top margin:6px 4px"/></a>
-             <a href="https://noetzold.tech/category/machine-learning/"><img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/raspberry-pi.svg" height="50px" style="vertical-align:top margin:6px 4px"/></a>
-             <a href="https://noetzold.tech/category/machine-learning/"><img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/sql.svg" height="50px" style="vertical-align:top margin:6px 4px"/></a>
-             <a href="https://noetzold.tech/category/machine-learning/"><img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/bootstrapping.svg" height="50px" style="vertical-align:top margin:6px 4px"/></a>
-             <a href="https://noetzold.tech/category/machine-learning/"><img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/json-file.svg" height="50px" style="vertical-align:top margin:6px 4px"/></a>
-             <a href="https://noetzold.tech/category/machine-learning/"><img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/Pandas_logo.svg" height="50px" style="vertical-align:top margin:6px 4px"/></a>
-             <a href="https://noetzold.tech/category/machine-learning/"><img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/kisspng-spring-framework-computer-icons-spring-web-flow-ja-advancement-5b4903273c5678.3653345715315115912472.png" height="50px" style="vertical-align:top margin:6px 4px"/></a>
+           <a href="https://noetzold.tech/category/devops/git-e-github/"><img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/github.svg" height="50px" style="vertical-align:top margin:6px 4px" /></a>
+            <a href="https://noetzold.tech/category/front-end/html/"><img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/html-5.svg" height="50px" style="vertical-align:top margin:6px 4px" /></a>
+             <a href="https://noetzold.tech/category/javascript/"><img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/javascript.svg" height="50px" style="vertical-align:top margin:6px 4px" /></a>
+             <a href="https://noetzold.tech/category/infraestrutura/linux/"><img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/linux.svg" height="50px" style="vertical-align:top margin:6px 4px"/></a>
+             <a href="https://noetzold.tech/category/python/"><img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/python.svg" height="50px" style="vertical-align:top margin:6px 4px"/></a>
+             <a href="https://noetzold.tech/category/infraestrutura/raspberry-pi/"><img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/raspberry-pi.svg" height="50px" style="vertical-align:top margin:6px 4px"/></a>
+             <a href="https://noetzold.tech/category/banco-de-dados/"><img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/sql.svg" height="50px" style="vertical-align:top margin:6px 4px"/></a>
+             <a href="https://noetzold.tech/category/back-end/api/"><img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/json-file.svg" height="50px" style="vertical-align:top margin:6px 4px"/></a>
+             <a href="https://noetzold.tech/category/data-science/"><img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/Pandas_logo.svg" height="50px" style="vertical-align:top margin:6px 4px"/></a>
+             <a href="https://noetzold.tech/category/back-end/spring-framework/"><img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/kisspng-spring-framework-computer-icons-spring-web-flow-ja-advancement-5b4903273c5678.3653345715315115912472.png" height="50px" style="vertical-align:top margin:6px 4px"/></a>
              <a href="https://noetzold.tech/category/machine-learning/"><img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/scikit-learn-seeklogo.com.svg" height="50px" style="vertical-align:top margin:6px 4px"/></a>
-             <a href="https://noetzold.tech/category/machine-learning/"><img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/mysql.svg" height="50px" style="vertical-align:top margin:6px 4px"/></a>
-             <a href="https://noetzold.tech/category/machine-learning/"><img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/postgresql.svg" height="50px" style="vertical-align:top margin:6px 4px"/></a>
-             <a href="https://noetzold.tech/category/machine-learning/"><img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/nodejs.svg" height="50px" style="vertical-align:top margin:6px 4px"/></a>
-  <a href="https://noetzold.tech/category/machine-learning/"><img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/mongodb-ar21.svg" height="50px" style="vertical-align:top margin:6px 4px"/></a>
-  <a href="https://noetzold.tech/category/machine-learning/"><img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/icons8-react-native.svg" height="50px" style="vertical-align:top margin:6px 4px"/></a>
+             <a href="https://noetzold.tech/category/banco-de-dados/"><img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/mysql.svg" height="50px" style="vertical-align:top margin:6px 4px"/></a>
+             <a href="https://noetzold.tech/category/banco-de-dados/"><img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/postgresql.svg" height="50px" style="vertical-align:top margin:6px 4px"/></a>
+             <a href="https://noetzold.tech/category/back-end/node-js/"><img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/nodejs.svg" height="50px" style="vertical-align:top margin:6px 4px"/></a>
+  <a href="https://noetzold.tech/category/banco-de-dados"><img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/mongodb-ar21.svg" height="50px" style="vertical-align:top margin:6px 4px"/></a>
+  <a href="https://noetzold.tech/category/front-end/react-js/"><img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/icons8-react-native.svg" height="50px" style="vertical-align:top margin:6px 4px"/></a>
 
              
 </p>
