@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋;Welcome+to+My+Profile!)](https://git.io/typing-svg)
+## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" />
 
 <p align="center" >
   <samp>
@@ -95,9 +95,7 @@ C++                   █░░░░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <br>
-<p align="right">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=DarlanNoetzold&theme=tokyonight&show_icons=true" />
-  
+<p align="center">
 ### My personal Website
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
@@ -120,7 +118,8 @@ C++                   █░░░░░░░░░░░░░░░░░░�
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DarlanNoetzold&repo=RPG-DungeoPy&theme=radical)](https://github.com/DarlanNoetzold/RPG-DungeoPy)
 
 </div>
-
+<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=What+you+do+makes+a+difference,+and+you+have+to+decide+what+kind+of+difference+you+want+to+make.;The+best+way+to+predict+the+future+is+to+create+it.;)](https://git.io/typing-svg)
 <br>
 
 
