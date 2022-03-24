@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> Hello:
+## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> Hello 👋
 
 <p align="center" >
   <samp>
