@@ -122,7 +122,7 @@ C++                   █░░░░░░░░░░░░░░░░░░�
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=The+best+way+to+predict+the+future+is+to+create+it)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=1200&lines=The+best+way+to+predict+the+future+is+to+create+it)](https://git.io/typing-svg)
 
 ---
 <br>
