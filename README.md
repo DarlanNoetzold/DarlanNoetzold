@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋;Welcome+to+My+Profile!;And...Remember;The+best+way+to+predict+the+future+is+to+create+it)](https://git.io/typing-svg)
+## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=false&vCenter=false&width=600&lines=Hi+there+👋;Welcome+to+My+Profile!)](https://git.io/typing-svg)
 
 <p align="center" >
   <samp>
