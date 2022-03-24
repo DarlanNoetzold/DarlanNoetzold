@@ -119,7 +119,7 @@ C++                   █░░░░░░░░░░░░░░░░░░�
 
 </div>
 <br>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=What+you+do+makes+a+difference,+and+you+have+to+decide+what+kind+of+difference+you+want+to+make.;The+best+way+to+predict+the+future+is+to+create+it.;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=What+you+do+makes+a+difference,+and+you+have+to+decide+what+kind+of+difference+you+want+to+make;The+best+way+to+predict+the+future+is+to+create+it)](https://git.io/typing-svg)
 <br>
 
 
