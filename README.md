@@ -15,7 +15,7 @@ continuously learning, wanting to help the community...
   <br/>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Darlan+Noetzold;+Welcome+to+My+Profile!;+The+best+way+to+predict+the+future+is to+create+it.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Darlan+Noetzold;+Welcome+to+My+Profile!;+The+best+way+to+predict+the+future+is to+create+it)](https://git.io/typing-svg)
 
 <img src="https://media.tenor.com/images/df8c44a1d20ab367fdcb21880985fd33/tenor.gif" align="right"  width="30%"/>
 
