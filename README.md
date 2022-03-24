@@ -95,10 +95,8 @@ C++                   █░░░░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <br>
-<p align="center">
 ### My personal Website
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<p align="center">
 <a href="https://noetzold.tech/">
   <img src="https://github.com/benyou1969/benyou1969/blob/master/globe.gif?raw=true" />
 </a>
