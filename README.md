@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" />
+## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> Hello:
 
 <p align="center" >
   <samp>
@@ -96,7 +96,7 @@ C++                   █░░░░░░░░░░░░░░░░░░�
 
 <br>
 
-### My personal Website
+### My personal Website:
 <p align="center">
 <a href="https://noetzold.tech/">
   <img src="https://github.com/benyou1969/benyou1969/blob/master/globe.gif?raw=true" />
