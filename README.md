@@ -116,6 +116,8 @@ C++                   █░░░░░░░░░░░░░░░░░░�
 </p>
 <br>
 
+---
+
 ### My personal Website:
 <p align="center">
 <a href="https://noetzold.tech/">
