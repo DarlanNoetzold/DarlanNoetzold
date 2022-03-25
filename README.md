@@ -28,25 +28,26 @@ continuously learning, wanting to help the community...
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="70px" /> I’m currently working on ...
 - Java EE and development of ecommerce solutions and fixes
-- Java 1.8 Native
+- Java 16 Native
 - Data analysis and model creation with Python using Sklearn, PyTorch, Pandas etc
 - Oracle ATG and his technologies
-- API development with Node.js and integration with MongoDB
+- API development with Spring Boot and Node.js
+- Web development with Spring Boot and his technologies
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" height="50px" /> I’m currently learning ...
 - Oracle ATG
-- Full Stack development with React, Node.js and MongoDB
+- Application security
 - Spring Details
-- Practice with Databases
+- Rust
 - Java details
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pug_dance.gif" width="60px" /> I’m looking to collaborate on ...
 - Any open source project
 - Really, just call me to help hehe :)
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/cool_duck.gif" width="60px" /> I’m looking for help with ...
-- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/party_parrot.gif" height="35px" /> any weird or interesting idea
+- Any weird or interesting idea
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/question.png" width="50px" />  Ask me about ...
-- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/chat.gif" height="35px" /> anything, happy to help 
+- Anything, happy to help 
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px" /> How to reach me ...
  </details>
