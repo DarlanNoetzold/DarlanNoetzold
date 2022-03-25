@@ -15,6 +15,7 @@ continuously learning, wanting to help the community...
   <br/>
 </p>
 
+<h4 align="center">
 <details>
 <summary>More...</summary>
 
