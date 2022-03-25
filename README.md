@@ -18,6 +18,7 @@ continuously learning, wanting to help the community...
 <h4 align="center">
 <details>
 <summary>More...</summary>
+  </h4>
 
 <img src="https://media.tenor.com/images/df8c44a1d20ab367fdcb21880985fd33/tenor.gif" align="right"  width="30%"/>
 
