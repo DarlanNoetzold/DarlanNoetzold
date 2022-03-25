@@ -11,8 +11,6 @@ I try to create new projects for fun and update my knowledge,
 continuously learning, wanting to help the community...
   </samp>
   <br/>
-  <br/>
-  <br/>
 </p>
 
 
