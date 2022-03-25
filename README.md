@@ -22,7 +22,7 @@ continuously learning, wanting to help the community...
 ---
 <div>
 <details>
-<summary align="center">More...</summary>
+<summary align="center">**More...**</summary>
 
 <img src="https://media.tenor.com/images/df8c44a1d20ab367fdcb21880985fd33/tenor.gif" align="right"  width="30%"/>
 
