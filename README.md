@@ -41,8 +41,9 @@ continuously learning, wanting to help the community...
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/question.png" width="50px" />  Ask me about ...
 - <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/chat.gif" height="35px" /> anything, happy to help 
-</details>
+
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px" /> How to reach me ...
+ </details>
 <p align="center">
 <a href="https://www.linkedin.com/in/darlan-noetzold-9b5bb2180/"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-linkedin-circled-48.png" alt="LinkedIn"></a> &nbsp; &nbsp;
 <a href="https://www.instagram.com/darlannoetzoldd/"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-instagram-48.png" alt="Instagram"></a> &nbsp; &nbsp;
