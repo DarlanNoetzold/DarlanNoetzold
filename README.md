@@ -93,7 +93,15 @@ Other                 ██░░░░░░░░░░░░░░░░░�
 C++                   █░░░░░░░░░░░░░░░░░░░░░░░░   04 %
 ```
 <!--END_SECTION:waka-->
-
+<p align="center">
+  <a href="https://github.com/DarlanNoetzold">
+    <img
+      align="center"
+      src="https://github-profile-trophy.vercel.app/?username=DarlanNoetzold&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"
+    />
+  </a>
+</a>
+</p>
 <br>
 
 ### My personal Website:
