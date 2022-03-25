@@ -16,7 +16,11 @@ continuously learning, wanting to help the community...
 </p>
 
 
+---
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=1200&lines=The+best+way+to+predict+the+future+is+to+create+it)](https://git.io/typing-svg)
+
+---
 <div>
 <details>
 <summary align="center">More...</summary>
@@ -135,10 +139,6 @@ C++                   █░░░░░░░░░░░░░░░░░░�
 
 </div>
 <br>
-
----
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=1200&lines=The+best+way+to+predict+the+future+is+to+create+it)](https://git.io/typing-svg)
 
 ---
 <br>
