@@ -59,37 +59,80 @@ continuously learning, wanting to help the community...
 </p>
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pickaxe.png" width="40px" /> Tools and Frameworks:
-<p align="center">
-    <a href="https://noetzold.tech/category/java/"><img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/java.svg" height="50px" style="vertical-align:top margin:6px" /> </a>
-     <a href="https://noetzold.tech/category/back-end/api/"><img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/api.svg" height="50px" style="vertical-align:top margin:6px 4px" /></a>
-      <a href="https://noetzold.tech/category/machine-learning/"><img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/brain.svg" height="50px" style="vertical-align:top margin:6px 4px" /></a>
-       <a href="https://noetzold.tech/category/front-end/css/"><img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/css.svg" height="50px" style="vertical-align:top margin:6px 4px" /></a>
-        <a href="https://noetzold.tech/category/data-science/"><img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/data.svg" height="50px" style="vertical-align:top margin:6px 4px" /></a>
-         <a href="https://noetzold.tech/category/devops/"><img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/docker.svg" height="50px" style="vertical-align:top margin:6px 4px" /></a>
-          <a href="https://noetzold.tech/category/c/"><img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/documento-c.svg" height="50px" style="vertical-align:top margin:6px 4px" /></a>
-           <a href="https://noetzold.tech/category/devops/git-e-github/"><img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/github.svg" height="50px" style="vertical-align:top margin:6px 4px" /></a>
-            <a href="https://noetzold.tech/category/front-end/html/"><img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/html-5.svg" height="50px" style="vertical-align:top margin:6px 4px" /></a>
-             <a href="https://noetzold.tech/category/javascript/"><img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/javascript.svg" height="50px" style="vertical-align:top margin:6px 4px" /></a>
-             <a href="https://noetzold.tech/category/infraestrutura/linux/"><img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/linux.svg" height="50px" style="vertical-align:top margin:6px 4px"/></a>
-             <a href="https://noetzold.tech/category/python/"><img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/python.svg" height="50px" style="vertical-align:top margin:6px 4px"/></a>
-             <a href="https://noetzold.tech/category/infraestrutura/raspberry-pi/"><img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/raspberry-pi.svg" height="50px" style="vertical-align:top margin:6px 4px"/></a>
-             <a href="https://noetzold.tech/category/banco-de-dados/"><img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/sql.svg" height="50px" style="vertical-align:top margin:6px 4px"/></a>
-             <a href="https://noetzold.tech/category/back-end/api/"><img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/json-file.svg" height="50px" style="vertical-align:top margin:6px 4px"/></a>
-             <a href="https://noetzold.tech/category/data-science/"><img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/Pandas_logo.svg" height="50px" style="vertical-align:top margin:6px 4px"/></a>
-             <a href="https://noetzold.tech/category/back-end/spring-framework/"><img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/kisspng-spring-framework-computer-icons-spring-web-flow-ja-advancement-5b4903273c5678.3653345715315115912472.png" height="50px" style="vertical-align:top margin:6px 4px"/></a>
-             <a href="https://noetzold.tech/category/machine-learning/"><img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/scikit-learn-seeklogo.com.svg" height="50px" style="vertical-align:top margin:6px 4px"/></a>
-             <a href="https://noetzold.tech/category/banco-de-dados/"><img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/mysql.svg" height="50px" style="vertical-align:top margin:6px 4px"/></a>
-             <a href="https://noetzold.tech/category/banco-de-dados/"><img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/postgresql.svg" height="50px" style="vertical-align:top margin:6px 4px"/></a>
-             <a href="https://noetzold.tech/category/back-end/node-js/"><img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/nodejs.svg" height="50px" style="vertical-align:top margin:6px 4px"/></a>
-  <a href="https://noetzold.tech/category/banco-de-dados"><img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/mongodb-ar21.svg" height="50px" style="vertical-align:top margin:6px 4px"/></a>
-  <a href="https://noetzold.tech/category/front-end/react-js/"><img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/icons8-react-native.svg" height="50px" style="vertical-align:top margin:6px 4px"/></a>
-  <a href="https://noetzold.tech/category/e-commerce/"><img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/comercio-eletronico%20(1).png" height="50px" style="vertical-align:top margin:6px 4px"/></a>
-  <a href="https://noetzold.tech/category/blockchainn/"><img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/blockchain.png" height="50px" style="vertical-align:top margin:6px 4px"/></a>
-  <a href="https://noetzold.tech/"><img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/rede-global.png" height="50px" style="vertical-align:top margin:6px 4px"/></a>
-  <a href="https://noetzold.tech/category/seguranca/"><img src="https://github.com/DarlanNoetzold/DarlanNoetzold/blob/main/security.png" height="50px" style="vertical-align:top margin:6px 4px"/></a>
+```java
+package tech.noetzold.remoteanalyser.model;
 
-             
-</p>
+import java.util.*;
+
+public class DarlanNoetzold {
+    public static void main(String[] args) {
+
+        final Map<String, ArrayList<String>> skills = new HashMap<String,ArrayList<String>>();
+
+        skills.put("frontEnd",
+                new ArrayList<String>(Arrays.asList("HTML5",
+                        "CSS3",
+                        "JavaScript",
+                        "React",
+                        "JSF",
+                        "Thymeleaf")));
+
+        skills.put("backEnd",
+                new ArrayList<String>(Arrays.asList("Java",
+                        "Java EE",
+                        "Node.js",
+                        "Spring Framework",
+                        "E-commerce",
+                        "Design Patterns",
+                        "Message Broker (Serviços de Mensageria)")));
+
+        skills.put("devOps",
+                new ArrayList<String>(Arrays.asList(
+                        "Git (GitHub, GitLab, BitBucket)",
+                        "Docker",
+                        "Vagrant",
+                        "Monitorias (Graylog, Grafana, Dynatrace",
+                        "SO (Linux, Windows)",
+                        "Raspberry Pi")));
+
+        skills.put("applicationSecurity",
+                new ArrayList<String>(Arrays.asList(
+                        "BlockChain",
+                        "Endpoint Authentication",
+                        "API Gateway Encryption",
+                        "Vulnerability Detection")));
+
+        skills.put("dataBases",
+                new ArrayList<String>(Arrays.asList(
+                        "PostgreSQL",
+                        "MongoDB",
+                        "MySQL",
+                        "OracleDB")));
+
+        skills.put("microservices",
+                new ArrayList<String>(Arrays.asList(
+                        "Consumer API's",
+                        "Producer API's",
+                        "API Gateway",
+                        "Mocks")));
+
+        skills.put("dataEngineering",
+                new ArrayList<String>(Arrays.asList(
+                        "Machine Learning",
+                        "Data Science",
+                        "Python")));
+
+        skills.put("others",
+                new ArrayList<String>(Arrays.asList(
+                        "Rust",
+                        "C++")));
+
+        skills.values().parallelStream().forEach(System.out::println);
+    }
+
+}
+
+```
 
 ###  <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/stats.png" width="35px" />  Some stats:
 
