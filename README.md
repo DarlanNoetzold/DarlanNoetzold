@@ -1,6 +1,6 @@
 ## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> Hello 👋
 
-<p align="center" size="200">
+<p align="center" size="6">
   <samp>
     My name is <em>Darlan</em>. I am a Web Developer and Data Engineer... 
   <br/> Java enthusiast... Python lover. And a little bit of C++, Javascript, Rust and its tenconologies. 
