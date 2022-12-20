@@ -175,10 +175,10 @@ C++                   █░░░░░░░░░░░░░░░░░░�
 <div align=center>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DarlanNoetzold&repo=reps&theme=radical)](https://github.com/DarlanNoetzold/reps)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DarlanNoetzold&repo=Notas&theme=radical)](https://github.com/DarlanNoetzold/Notas)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DarlanNoetzold&repo=complete-ecommerce&theme=radical)](https://github.com/DarlanNoetzold/complete-ecommerce)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DarlanNoetzold&repo=catScanner&theme=radical)](https://github.com/DarlanNoetzold/catScanner)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DarlanNoetzold&repo=Java-Details&theme=radical)](https://github.com/DarlanNoetzold/Java-Details)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DarlanNoetzold&repo=Remote-Analyser&theme=radical)](https://github.com/DarlanNoetzold/URI_Cpp)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DarlanNoetzold&repo=Remote-Analyser&theme=radical)](https://github.com/DarlanNoetzold/Remote-Analyser)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DarlanNoetzold&repo=spyware&theme=radical)](https://github.com/DarlanNoetzold/RPG-DungeoPy)
 
 </div>
