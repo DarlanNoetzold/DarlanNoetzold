@@ -28,7 +28,6 @@ continuously learning, wanting to help the community...
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="70px" /> I’m currently working on ...
 - Java EE and development of ecommerce solutions and fixes
 - Java 16 Native
-- Data analysis and model creation with Python using Sklearn, PyTorch, Pandas etc
 - Oracle ATG and his technologies
 - API development with Spring Boot and Node.js
 - Web development with Spring Boot and his technologies
@@ -38,6 +37,7 @@ continuously learning, wanting to help the community...
 - Spring Details
 - Rust
 - Java details
+- Node.js with Typescript
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pug_dance.gif" width="60px" /> I’m looking to collaborate on ...
 - Any open source project
 - Really, just call me to help hehe :)
@@ -125,7 +125,8 @@ public class DarlanNoetzold {
         skills.put("others",
                 new ArrayList<String>(Arrays.asList(
                         "Rust",
-                        "C++")));
+                        "C++",
+                        "TypeScript")));
 
         skills.values().parallelStream().forEach(System.out::println);
     }
