@@ -174,7 +174,7 @@ C++                   █░░░░░░░░░░░░░░░░░░�
 ###  <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="70px" /> My achievements:
 <br>
 <div align=center>
-PAT_1=URgYEa9wk33frYIj6C6Ijy35
+  
 [![ReadMe Card](github-readme-statss-6gbgqkcr6-darlannoetzold.vercel.app/api/pin/?username=DarlanNoetzold&repo=reps&theme=radical)](https://github.com/DarlanNoetzold/reps)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DarlanNoetzold&repo=complete-ecommerce&theme=radical)](https://github.com/DarlanNoetzold/complete-ecommerce)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DarlanNoetzold&repo=catScanner&theme=radical)](https://github.com/DarlanNoetzold/catScanner)
