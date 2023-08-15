@@ -124,6 +124,7 @@ public class DarlanNoetzold {
 
         skills.put("others",
                 new ArrayList<String>(Arrays.asList(
+                        "Flutter",
                         "Rust",
                         "C++",
                         "TypeScript")));
