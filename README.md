@@ -27,7 +27,7 @@ continuously learning, wanting to help the community...
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="70px" /> I’m currently working on ...
 - Java EE and development of ecommerce solutions and fixes
-- Java 16 Native
+- Java 8/11/17/20
 - Oracle ATG and his technologies
 - API development with Spring Boot and Node.js
 - Web development with Spring Boot and his technologies
