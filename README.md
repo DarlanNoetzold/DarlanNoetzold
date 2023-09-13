@@ -35,6 +35,7 @@ continuously learning, wanting to help the community...
 - Oracle ATG
 - Application security
 - Spring Details
+- Quarkus Framework
 - Rust
 - Java details
 - Node.js with Typescript
@@ -80,8 +81,9 @@ public class DarlanNoetzold {
         skills.put("backEnd",
                 new ArrayList<String>(Arrays.asList("Java",
                         "Java EE",
-                        "Node.js",
                         "Spring Framework",
+                        "Quarkus",
+                        "Node.js",
                         "E-commerce",
                         "Design Patterns",
                         "Message Broker (Serviços de Mensageria)")));
