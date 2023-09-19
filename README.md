@@ -29,7 +29,7 @@ continuously learning, wanting to help the community...
 - Java EE and development of ecommerce solutions and fixes
 - Java 8/11/17/20
 - Oracle ATG and his technologies
-- API development with Spring Boot and Node.js
+- API development with Spring Boot, Quarkus and Node.js
 - Web development with Spring Boot and his technologies
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" height="50px" /> I’m currently learning ...
 - Oracle ATG
