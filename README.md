@@ -2,7 +2,7 @@
 
 <p align="center" size="9">
   <samp>
-    My name is <em>Darlan</em>. I am a Web Developer and Data Engineer... 
+    My name is <em>Darlan</em>. I am a Web Developer... 
   <br/> Java enthusiast... Python lover. And a little bit of C++, Javascript/Typescript, Rust and its tenconologies. 
     <br/> I study in one period and work in two..
       <br/>
