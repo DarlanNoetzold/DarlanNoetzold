@@ -70,6 +70,8 @@ continuously learning, wanting to help the community...
 - 🛒 E-commerce
 - 🧩 Design Patterns
 - 📬 Message Broker (Serviços de Mensageria)
+- 🚀 Cache (Redis)
+
 
 ### :globe_with_meridians: Front-End
 - 🌐 HTML5
