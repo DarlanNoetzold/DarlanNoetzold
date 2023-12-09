@@ -60,83 +60,61 @@ continuously learning, wanting to help the community...
 </p>
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pickaxe.png" width="40px" /> Tools and Frameworks:
-```java
-package tech.noetzold;
 
-import java.util.*;
+### Back-End
+- Java
+- Java EE
+- Spring Framework
+- Quarkus
+- Node.js
+- E-commerce
+- Design Patterns
+- Message Broker (Serviços de Mensageria)
 
-public class DarlanNoetzold {
-    public static void main(String[] args) {
+### Front-End
+- HTML5
+- CSS3
+- JavaScript
+- React
+- JSF
+- Thymeleaf
 
-        final Map<String, ArrayList<String>> skills = new HashMap<String,ArrayList<String>>();
+### DevOps
+- Git (GitHub, GitLab, BitBucket)
+- Docker
+- Vagrant
+- Monitorias (Graylog, Grafana, Dynatrace)
+- SO (Linux, Windows)
+- Raspberry Pi
 
-        skills.put("frontEnd",
-                new ArrayList<String>(Arrays.asList("HTML5",
-                        "CSS3",
-                        "JavaScript",
-                        "React",
-                        "JSF",
-                        "Thymeleaf")));
+### Segurança de Aplicações
+- BlockChain
+- Endpoint Authentication
+- API Gateway Encryption
+- Vulnerability Detection
 
-        skills.put("backEnd",
-                new ArrayList<String>(Arrays.asList("Java",
-                        "Java EE",
-                        "Spring Framework",
-                        "Quarkus",
-                        "Node.js",
-                        "E-commerce",
-                        "Design Patterns",
-                        "Message Broker (Serviços de Mensageria)")));
+### Bancos de Dados
+- PostgreSQL
+- MongoDB
+- MySQL
+- OracleDB
 
-        skills.put("devOps",
-                new ArrayList<String>(Arrays.asList(
-                        "Git (GitHub, GitLab, BitBucket)",
-                        "Docker",
-                        "Vagrant",
-                        "Monitorias (Graylog, Grafana, Dynatrace",
-                        "SO (Linux, Windows)",
-                        "Raspberry Pi")));
+### Microservices
+- Consumer API's
+- Producer API's
+- API Gateway
+- Mocks
 
-        skills.put("applicationSecurity",
-                new ArrayList<String>(Arrays.asList(
-                        "BlockChain",
-                        "Endpoint Authentication",
-                        "API Gateway Encryption",
-                        "Vulnerability Detection")));
+### Engenharia de Dados
+- Machine Learning
+- Data Science
+- Python
 
-        skills.put("dataBases",
-                new ArrayList<String>(Arrays.asList(
-                        "PostgreSQL",
-                        "MongoDB",
-                        "MySQL",
-                        "OracleDB")));
-
-        skills.put("microservices",
-                new ArrayList<String>(Arrays.asList(
-                        "Consumer API's",
-                        "Producer API's",
-                        "API Gateway",
-                        "Mocks")));
-
-        skills.put("dataEngineering",
-                new ArrayList<String>(Arrays.asList(
-                        "Machine Learning",
-                        "Data Science",
-                        "Python")));
-
-        skills.put("others",
-                new ArrayList<String>(Arrays.asList(
-                        "Flutter",
-                        "Rust",
-                        "C++",
-                        "TypeScript")));
-
-        skills.values().parallelStream().forEach(System.out::println);
-    }
-
-}
-
-```
+### Outros
+- Flutter
+- Rust
+- C++
+- TypeScript
 
 ###  <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/stats.png" width="35px" />  Some stats:
 
