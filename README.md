@@ -61,60 +61,60 @@ continuously learning, wanting to help the community...
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pickaxe.png" width="40px" /> Tools and Frameworks:
 
-### Back-End
-- Java
-- Java EE
-- Spring Framework
-- Quarkus
-- Node.js
-- E-commerce
-- Design Patterns
-- Message Broker (Serviços de Mensageria)
+### :computer: Back-End
+- ☕ Java
+- 🌱 Java EE
+- 🍃 Spring Framework
+- 🌌 Quarkus
+- 🟢 Node.js
+- 🛒 E-commerce
+- 🧩 Design Patterns
+- 📬 Message Broker (Serviços de Mensageria)
 
-### Front-End
-- HTML5
-- CSS3
-- JavaScript
-- React
-- JSF
-- Thymeleaf
+### :globe_with_meridians: Front-End
+- 🌐 HTML5
+- 🎨 CSS3
+- 💻 JavaScript
+- ⚛️ React
+- 🖼 JSF
+- 🌿 Thymeleaf
 
-### DevOps
-- Git (GitHub, GitLab, BitBucket)
-- Docker
-- Vagrant
-- Monitorias (Graylog, Grafana, Dynatrace)
-- SO (Linux, Windows)
-- Raspberry Pi
+### :gear: DevOps
+- 🐙 Git (GitHub, GitLab, BitBucket)
+- 🐳 Docker
+- 🏕 Vagrant
+- 📊 Monitorias (Graylog, Grafana, Dynatrace)
+- 🖥 SO (Linux, Windows)
+- 🍓 Raspberry Pi
 
-### Segurança de Aplicações
-- BlockChain
-- Endpoint Authentication
-- API Gateway Encryption
-- Vulnerability Detection
+### :lock: Segurança de Aplicações
+- 🔗 BlockChain
+- 🔑 Endpoint Authentication
+- 🔒 API Gateway Encryption
+- 🐜 Vulnerability Detection
 
-### Bancos de Dados
-- PostgreSQL
-- MongoDB
-- MySQL
-- OracleDB
+### :floppy_disk: Bancos de Dados
+- 🐘 PostgreSQL
+- 🍃 MongoDB
+- 🐬 MySQL
+- 🟠 OracleDB
 
-### Microservices
-- Consumer API's
-- Producer API's
-- API Gateway
-- Mocks
+### :satellite: Microservices
+- 📡 Consumer API's
+- 📡 Producer API's
+- 🚪 API Gateway
+- 🎭 Mocks
 
-### Engenharia de Dados
-- Machine Learning
-- Data Science
-- Python
+### :bar_chart: Engenharia de Dados
+- 🤖 Machine Learning
+- 📊 Data Science
+- 🐍 Python
 
-### Outros
-- Flutter
-- Rust
-- C++
-- TypeScript
+### :sparkles: Outros
+- 🦋 Flutter
+- 🦀 Rust
+- ➕ C++
+- ⌨️ TypeScript
 
 ###  <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/stats.png" width="35px" />  Some stats:
 
