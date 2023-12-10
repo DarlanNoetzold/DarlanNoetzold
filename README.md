@@ -62,60 +62,81 @@ continuously learning, wanting to help the community...
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pickaxe.png" width="40px" /> Tools and Frameworks:
 
 ### :computer: Back-End
-- ☕ Java
-- 🌱 Java EE
-- 🍃 Spring Framework
-- 🌌 Quarkus
-- 🟢 Node.js
-- 🛒 E-commerce
-- 🧩 Design Patterns
-- 📬 Message Broker (Serviços de Mensageria)
-- 🚀 Cache (Redis)
+☕ Java
+│   ├── 🌱 Java EE
+│   │   └── 🛒 E-commerce
+│   └── 🍃 Spring Framework
+│       ├── 🌌 Quarkus
+│       ├── 🚀 Cache com Redis
+│       └── 🛒 E-commerce
+└── 🟢 Node.js
+    ├── 🕸 Express.js
+    └── 🛒 E-commerce
 
 ### :globe_with_meridians: Front-End
-- 🌐 HTML5
-- 🎨 CSS3
-- 💻 JavaScript
-- ⚛️ React
-- 🖼 JSF
-- 🌿 Thymeleaf
+🌐 HTML5
+│   ├── 🎨 CSS3
+│   └── 💻 JavaScript
+│       ├── ⚛️ React
+│       ├── 🖼 JSF
+│       └── 🌿 Thymeleaf
+└── 🧰 Bootstrap
+    └── 📱 Responsive Design
+
 
 ### :gear: DevOps
-- 🐙 Git (GitHub, GitLab, BitBucket)
-- 🐳 Docker
-- 🏕 Vagrant
-- 📊 Monitorias (Graylog, Grafana, Dynatrace)
-- 🖥 SO (Linux, Windows)
-- 🍓 Raspberry Pi
+🐙 Git
+│   ├── GitHub
+│   ├── GitLab
+│   └── BitBucket
+├── 🐳 Docker
+├── 🏕 Vagrant
+└── 📊 Monitorias
+    ├── Graylog
+    ├── Grafana
+    └── Dynatrace
 
 ### :lock: Segurança de Aplicações
-- 🔗 BlockChain
-- 🔑 Endpoint Authentication
-- 🔒 API Gateway Encryption
-- 🐜 Vulnerability Detection
+🔗 BlockChain
+│   ├── 🔑 Endpoint Authentication
+│   ├── 🔒 API Gateway Encryption
+│   └── 🐜 Vulnerability Detection
+└── 🛡 Firewall Management
+    └── 💻 Ethical Hacking
 
 ### :floppy_disk: Bancos de Dados
-- 🐘 PostgreSQL
-- 🍃 MongoDB
-- 🐬 MySQL
-- 🟠 OracleDB
+🔍 SQL
+│   ├── 🐘 PostgreSQL
+│   ├── 🍃 MongoDB
+│   ├── 🐬 MySQL
+│   └── 🟠 OracleDB
+└── 🧠 NoSQL
+    └── 🔍 SQL Optimization
+
 
 ### :satellite: Microservices
-- 📡 Consumer API's
-- 📡 Producer API's
-- 🚪 API Gateway
-- 🎭 Mocks
+📡 Consumer API's
+│   ├── Producer API's
+│   └── 🚪 API Gateway
+│       └── 🎭 Mocks
+└── 🧩 Service Discovery
+    └── 🌐 RESTful Services
 
 ### :bar_chart: Engenharia de Dados
-- 🤖 Machine Learning
-- 📊 Data Science
-- 🐍 Python
+🤖 Machine Learning
+│   ├── 📊 Data Science
+│   └── 🐍 Python
+│       └── 🧮 Data Analysis
+└── 📈 Big Data
+    └── 🔄 Data Integration
 
 ### :sparkles: Outros
-- 🦋 Flutter
-- 🦀 Rust
-- ➕ C++
-- ⌨️ TypeScript
+🦋 Flutter
+│   ├── 🦀 Rust
+│   ├── ➕ C++
+│   └── ⌨️ TypeScript
+└── 🖥️ Desktop Development
+    └── 🎮 Game Development (Unity)
 
 ###  <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/stats.png" width="35px" />  Some stats:
 
