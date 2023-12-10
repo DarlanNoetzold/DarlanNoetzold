@@ -72,7 +72,6 @@ continuously learning, wanting to help the community...
 - 📬 Message Broker (Serviços de Mensageria)
 - 🚀 Cache (Redis)
 
-
 ### :globe_with_meridians: Front-End
 - 🌐 HTML5
 - 🎨 CSS3
@@ -145,13 +144,15 @@ C++                   █░░░░░░░░░░░░░░░░░░�
 
 ---
 
-### My personal Website:
-<p align="center">
-<a href="https://noetzold.tech/">
-  <img src="https://github.com/benyou1969/benyou1969/blob/master/globe.gif?raw=true" />
-</a>
-</p>
+### :globe_with_meridians: Visite Meu Website Pessoal
 
+<p align="center">
+  <a href="https://noetzold.tech/">
+    <img src="https://github.com/benyou1969/benyou1969/blob/master/globe.gif?raw=true" alt="Website" style="border-radius:10px;box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);"/>
+  </a>
+  <br>
+  <i>Clique na imagem para explorar meus projetos, artigos e mais sobre minha jornada como desenvolvedor!</i>
+</p>
 ---
 
 ###  <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="70px" /> My achievements:
