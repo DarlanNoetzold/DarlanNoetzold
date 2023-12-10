@@ -62,16 +62,16 @@ continuously learning, wanting to help the community...
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pickaxe.png" width="40px" /> Tools and Frameworks:
 
 ### :computer: Back-End
-☕ Java
-│   ├── 🌱 Java EE
-│   │   └── 🛒 E-commerce
-│   └── 🍃 Spring Framework
-│       ├── 🌌 Quarkus
-│       ├── 🚀 Cache com Redis
-│       └── 🛒 E-commerce
-└── 🟢 Node.js
-    ├── 🕸 Express.js
-    └── 🛒 E-commerce
+- ☕ Java
+- │   ├── 🌱 Java EE
+- │   │   └── 🛒 E-commerce
+- │   └── 🍃 Spring Framework
+- │       ├── 🌌 Quarkus
+- │       ├── 🚀 Cache com Redis
+- │       └── 🛒 E-commerce
+- └── 🟢 Node.js
+-     ├── 🕸 Express.js
+-     └── 🛒 E-commerce
 
 ### :globe_with_meridians: Front-End
 🌐 HTML5
