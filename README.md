@@ -85,6 +85,60 @@ continuously learning, wanting to help the community...
   - 📱 Responsive Design
   - 🛒 E-commerce
 
+#### :gear: DevOps
+- 🐙 Git
+  - GitHub
+  - GitLab
+  - BitBucket
+- 🐳 Docker
+- 🏕 Vagrant
+- 📊 Monitorias
+  - Graylog
+  - Grafana
+  - Dynatrace
+
+#### :lock: Segurança de Aplicações
+- 🔗 BlockChain
+  - 🔑 Endpoint Authentication
+  - 🔒 API Gateway Encryption
+- 🐜 Vulnerability Detection
+- 🛡 Firewall Management
+  - 💻 Ethical Hacking
+
+#### :floppy_disk: Bancos de Dados
+- 🔍 SQL
+  - 🐘 PostgreSQL
+  - 🐬 MySQL
+  - 🟠 OracleDB
+- 🧠 NoSQL
+  - MariaDB
+  - 🍃 MongoDB
+- Query Optimization
+
+#### :satellite: Microservices
+- 📡 Consumer API's
+  - Producer API's
+- 🚪 API Gateway
+  - 🎭 Mocks
+- 🧩 Service Discovery
+  - 🌐 RESTful Services
+
+#### :bar_chart: Engenharia de Dados
+- 🤖 Machine Learning
+  - 📊 Data Science
+- 🐍 Python
+  - 🧮 Data Analysis
+- 📈 Big Data
+  - 🔄 Data Integration
+
+#### :sparkles: Outros
+- 🦋 Flutter
+- 🦀 Rust
+- ➕ C++
+- ⌨️ TypeScript
+- 🖥️ Desktop Development
+  - 🎮 Game Development (Unity)
+
 ### :computer: Back-End
 ☕ Java<br/>
 │   ├── 🌱 Java EE<br/>
