@@ -73,6 +73,8 @@ continuously learning, wanting to help the community...
   - 🕸 Express.js
   - 🛒 E-commerce
 
+---
+
 #### :globe_with_meridians: Front-End
 - 🌐 HTML5
   - 🎨 CSS3
@@ -84,6 +86,8 @@ continuously learning, wanting to help the community...
 - 🧰 Bootstrap
   - 📱 Responsive Design
   - 🛒 E-commerce
+
+---
 
 #### :gear: DevOps
 - 🐙 Git
@@ -97,6 +101,8 @@ continuously learning, wanting to help the community...
   - Grafana
   - Dynatrace
 
+---
+
 #### :lock: Segurança de Aplicações
 - 🔗 BlockChain
   - 🔑 Endpoint Authentication
@@ -104,6 +110,8 @@ continuously learning, wanting to help the community...
 - 🐜 Vulnerability Detection
 - 🛡 Firewall Management
   - 💻 Ethical Hacking
+
+---
 
 #### :floppy_disk: Bancos de Dados
 - 🔍 SQL
@@ -115,6 +123,8 @@ continuously learning, wanting to help the community...
   - 🍃 MongoDB
 - Query Optimization
 
+---
+
 #### :satellite: Microservices
 - 📡 Consumer API's
   - Producer API's
@@ -123,6 +133,8 @@ continuously learning, wanting to help the community...
 - 🧩 Service Discovery
   - 🌐 RESTful Services
 
+---
+
 #### :bar_chart: Engenharia de Dados
 - 🤖 Machine Learning
   - 📊 Data Science
@@ -130,6 +142,8 @@ continuously learning, wanting to help the community...
   - 🧮 Data Analysis
 - 📈 Big Data
   - 🔄 Data Integration
+
+---
 
 #### :sparkles: Outros
 - 🦋 Flutter
