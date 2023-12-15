@@ -61,6 +61,8 @@ continuously learning, wanting to help the community...
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pickaxe.png" width="40px" /> Tools and Frameworks:
 
+---
+
 #### :computer: Back-End
 - ☕ Java
   - 🌱 Java EE
