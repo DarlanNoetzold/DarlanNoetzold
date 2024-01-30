@@ -67,9 +67,14 @@ continuously learning, wanting to help the community...
 - ☕ Java
   - 🌱 Java EE
     - 🛒 E-commerce
+  - 🦿 JVM Analytcs and Performance
+    - 📈 High Performance IO
+    - ➿ Java Multithreading, Concurrency & Performance Optimization
+    - 📚 Memory Management
 - 🍃 Spring Framework
   - 🌌 Quarkus
   - 🚀 Cache com Redis
+  - 🐇 RabbitMQ for Spring
   - 🛒 E-commerce
 - 🟢 Node.js
   - 🕸 Express.js
