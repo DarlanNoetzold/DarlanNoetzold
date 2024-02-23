@@ -36,8 +36,8 @@ continuously learning, wanting to help the community...
 - Application security
 - Spring Details
 - Quarkus Framework
-- Rust
-- Java details
+- GO
+- Java High Performance details
 - Node.js with Typescript
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pug_dance.gif" width="60px" /> I’m looking to collaborate on ...
 - Any open source project
