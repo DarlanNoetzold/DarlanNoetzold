@@ -193,8 +193,6 @@ C++                   █░░░░░░░░░░░░░░░░░░�
 
 ### Thanks for visiting :heart:
 
- <> ![VisitorCount](https://profile-counter.glitch.me/DarlanNoetzold/count.svg)
-
 <img src="https://profile-counter.deno.dev/DarlanNoetzold/count.svg" alt="Key:: Visitor's Count" />
 
 ⭐️ From [DarlanNoetzold](https://github.com/DarlanNoetzold)
