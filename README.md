@@ -55,7 +55,6 @@ continuously learning, wanting to help the community...
 <p align="center">
 <a href="https://www.linkedin.com/in/darlan-noetzold-9b5bb2180/"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-linkedin-circled-48.png" alt="LinkedIn"></a> &nbsp; &nbsp;
 <a href="https://www.instagram.com/darlannoetzoldd/"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-instagram-48.png" alt="Instagram"></a> &nbsp; &nbsp;
-<a href="https://www.facebook.com/darlan.noetzold.9/"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-facebook-48.png" alt="Facebook"></a> &nbsp; &nbsp;
 <a href="mailto:darlan.noetzold@gmail.com"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-gmail-48.png" alt="Gmail"></a> &nbsp; &nbsp;
 </p>
 
@@ -63,102 +62,76 @@ continuously learning, wanting to help the community...
 
 ---
 
-#### :computer: Back-End
-- ☕ Java
-  - 🌱 Java EE
-    - 🛒 E-commerce
-  - 🦿 JVM Analytcs and Performance
-    - 📈 High Performance IO
-    - ➿ Java Multithreading, Concurrency & Performance Optimization
-    - 📚 Memory Management
-- 🍃 Spring Framework
-  - 🌌 Quarkus
-  - 🚀 Cache com Redis
-  - 🐇 RabbitMQ for Spring
-  - 🛒 E-commerce
-- 🟢 Node.js
-  - 🕸 Express.js
-  - 🛒 E-commerce
+## 🚀 Tech Stack & Skills
 
----
+### ☕ Java Ecosystem
+- **Java** (Core, Multithreading, Performance)
+- **Java EE**
+- **Spring Framework**
+- **Quarkus**
+- **Java Profiling** (JMC, JMeter, VisualVM, JProfiler)
+- **E-commerce Solutions**
 
-#### :globe_with_meridians: Front-End
-- 🌐 HTML5
-  - 🎨 CSS3
-- 💻 JavaScript
-  - ⚛️ React
-    - 🛒 E-commerce
-  - 🖼 JSF
-  - 🌿 Thymeleaf
-- 🧰 Bootstrap
-  - 📱 Responsive Design
-  - 🛒 E-commerce
+### 🐍 Python
+- **Python** (Data Science, Data Analysis)
+  - FastAPI
+  - Django
+  - Flask
 
----
+### 🟢 JavaScript & TypeScript
+- **JavaScript / TypeScript**
+- **React**
+- **Node.js / Nest.js**
+- **HTML5 & CSS3**
 
-#### :gear: DevOps
-- 🐙 Git
-  - GitHub
-  - GitLab
-  - BitBucket
-- 🐳 Docker
-- 🏕 Vagrant
-- 📊 Monitorias
-  - Graylog
-  - Grafana
-  - Dynatrace
+### 🦾 DevOps & Cloud
+- **Git** (GitHub, GitLab, BitBucket)
+- **Docker**
+- **Vagrant**
+- **Kubernetes (K8s)**
+- **Clouds:** AWS, OCI, Google Cloud
 
----
+### 🛰️ Microservices & Messaging
+- **Microservices** (APIs, Mocks)
+- **Message Brokers:** Kafka, RabbitMQ, ActiveMQ
+- **Caching:** Redis
 
-#### :lock: Segurança de Aplicações
-- 🔗 BlockChain
-  - 🔑 Endpoint Authentication
-  - 🔒 API Gateway Encryption
-- 🐜 Vulnerability Detection
-- 🛡 Firewall Management
-  - 💻 Ethical Hacking
+### 🗄️ Databases
+- **MySQL**
+- **PostgreSQL**
+- **MongoDB**
+- **OracleDB**
 
----
+### 🧪 Testing
+- **Junit**
+- **Mockito**
+- **JMeter**
 
-#### :floppy_disk: Bancos de Dados
-- 🔍 SQL
-  - 🐘 PostgreSQL
-  - 🐬 MySQL
-  - 🟠 OracleDB
-- 🧠 NoSQL
-  - MariaDB
-  - 🍃 MongoDB
-- Query Optimization
+### 🔒 Cybersecurity
+- **Data Privacy**
+- **Cryptography**
+- **BlockChain**
 
----
+### 🤖 Artificial Intelligence
+- **AI:** Machine Learning (ML), Deep Learning (DL), Reinforcement Learning (RL)
+- **Data Science**
 
-#### :satellite: Microservices
-- 📡 Consumer API's
-  - Producer API's
-- 🚪 API Gateway
-  - 🎭 Mocks
-- 🧩 Service Discovery
-  - 🌐 RESTful Services
+### 🖥️ Other Technologies
+- **C++**
+- **Rust**
+- **Android** (Native, Flutter)
+- **Raspberry Pi**
+- **Project/Design Patterns**
+- **Network Infrastructure**
 
----
+### 📊 Observability & Monitoring
+- **Graylog**
+- **Dynatrace**
+- **Grafana**
 
-#### :bar_chart: Engenharia de Dados
-- 🤖 Machine Learning
-  - 📊 Data Science
-- 🐍 Python
-  - 🧮 Data Analysis
-- 📈 Big Data
-  - 🔄 Data Integration
-
----
-
-#### :sparkles: Outros
-- 🦋 Flutter
-- 🦀 Rust
-- ➕ C++
-- ⌨️ TypeScript
-- 🖥️ Desktop Development
-  - 🎮 Game Development (Unity)
+### 💻 Operating Systems
+- **Linux**
+- **Windows**
 
 ---
 
@@ -221,6 +194,6 @@ C++                   █░░░░░░░░░░░░░░░░░░�
 ### Thanks for visiting :heart:
 
 ![VisitorCount](https://profile-counter.glitch.me/DarlanNoetzold/count.svg)
-
+<img src="https://profile-counter.deno.dev/DarlanNoetzold/count.svg" alt="Key:: Visitor's Count" />
 
 ⭐️ From [DarlanNoetzold](https://github.com/DarlanNoetzold)
